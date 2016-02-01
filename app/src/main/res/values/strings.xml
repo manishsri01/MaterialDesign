@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Material Design Demo</string>
+
+    <string name="title_section1">Floating Button</string>
+    <string name="title_section2">Snackbar</string>
+    <string name="title_section3">Collapsing Layout</string>
+    <string name="second_activity_text">Collapsing Layout</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="dummy_title">Lorem Ipsum</string>
+    <string name="dummy_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="title_activity_audio_record_test">AudioRecordTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_record_background">RecordBackground</string>
+
+</resources>
